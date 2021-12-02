@@ -4,7 +4,8 @@ def nextFunction():
     pass
 
 """
-Through out the next 2 months we are going to build ourselves a application.  Lets get our brainstorming started while working with functions
+Through out the next 2 months we are going to build ourselves a application.  Lets get our brainstorming started while working with functions.
+Just adding a comment
 
 """
 inventory = [
